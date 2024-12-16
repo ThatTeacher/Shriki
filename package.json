@@ -1,0 +1,22 @@
+{
+  "name": "is-shriki",
+  "version": "1.0.0",
+  "description": "Are you really shriki?",
+  "main": "shriki.js",
+  "scripts": {
+    "test": "echo are you testing Shriki? && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatTeacher/Shriki.git"
+  },
+  "keywords": [
+    "Shriki"
+  ],
+  "author": "ThatTeacher",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/ThatTeacher/Shriki/issues"
+  },
+  "homepage": "https://github.com/ThatTeacher/Shriki#readme"
+}
