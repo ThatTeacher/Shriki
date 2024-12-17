@@ -8,7 +8,7 @@
    |\_________\    \|__|\|__|    \|__|\|__|    \|__|    \|__| \|__|    \|__|
    \|_________|                                                             
                                                                             
-# Cant tell if something is a _Shriki_?   
+### Cant tell if something is a _Shriki_?   
 Install the package and git rid of all your concerns
 ```
 npm i is-shriki
