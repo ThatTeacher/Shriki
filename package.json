@@ -1,6 +1,6 @@
 {
   "name": "is-shriki",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Are you really shriki?",
   "main": "shriki.js",
   "scripts": {
